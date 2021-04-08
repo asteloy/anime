@@ -1,2 +1,2 @@
 # anime
-https://asteloy.github.io/anime/#/
+ https://asteloy.github.io/pizza/
